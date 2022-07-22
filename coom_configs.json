@@ -1,0 +1,12 @@
+[
+    {
+        "name": "",
+        "input_dir": "~/Data/Feature_Exploration/tokenize/example_lemmatized/",
+        "output_dir": "~/Data/Feature_Exploration/coom/example_lemmatized",
+        "window": 5,
+        "centres": [
+            "vrouw"
+        ],
+        "minFreq": 2
+    }
+]
